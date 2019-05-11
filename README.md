@@ -6,3 +6,11 @@
 <p>REST API adalah program aplikasi antarmuka(API) yang menggunakan permintaan HTTP untuk GET, PUT, POST dan DELETE data.
 REST API juga disebut sebagai layanan web RESTful - didasarkan pada teknologi state transfer (REST), gaya arsitektur dan pendekatan komunikasi yang sering digunakan dalam pengembangan layanan web.</p>
 
+<b>Tampilan Awal Aplikasi</b>
+![Screenshot](screenshot (3).png)
+
+<b>Tambah data users</b>
+![Screenshot](screenshot (4).png)
+
+<b>Tampilan Home setelah ditambahkan</b>
+![Screenshot](screenshot (3).png)
